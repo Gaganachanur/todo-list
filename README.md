@@ -1,6 +1,6 @@
 ### Todo List 
 
-![image](https://user-images.githubusercontent.com/76946122/207299056-7f42d08d-eb55-4855-927d-44ac2fd3e2b0.png)
+![image](https://user-images.githubusercontent.com/76946122/207395772-905ecd04-7afb-4ac8-8660-fed1112ea872.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
